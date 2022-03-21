@@ -29,8 +29,14 @@ some ways to loading data.
 
 //47_5-4 How to Create Event handler with parameters
 =============================================================
+if a function use parenthesis, it means the function will be executed on that moment. this way in jsx on event handler, parenthesis are not been used.
 
+to avoid this problem, function raper is used. (a function within a function.)
 
+also you can use anonymous arrow function to declare the function in event handler. (recommended)
 
+//47_5-5 Intro to Local storage to store data just one item
+
+adding item to the local storage.
 
 */
